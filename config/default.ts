@@ -2,7 +2,7 @@ export default {
   port: 5000,
   dbUri:
     "mongodb+srv://admin:159963321@cluster0.omrlw.mongodb.net/typescript-rest-api?retryWrites=true&w=majority",
-  origin: "http://localhost:3000",
+  origin: "http://localhost:5000",
   saltWorkFactor: 10,
   accessTokenTtl: "15m",
   refreshTokenTtl: "1y",
