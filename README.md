@@ -19,3 +19,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+
+### `swagger docs`
+Open [http://localhost:5000/docs](http://localhost:5000/docs) to view it in the browser.
